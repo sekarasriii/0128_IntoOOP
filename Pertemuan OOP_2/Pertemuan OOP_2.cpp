@@ -2,4 +2,6 @@
 using namespace std;
 
 class bangunDatar{
+private:
+
 };
